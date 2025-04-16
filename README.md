@@ -1,3 +1,7 @@
+This is the code along with Scrimbas new course called Fullstack. 
+Check it out: https://scrimba.com/t0fullstack , its amazing!
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
